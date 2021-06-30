@@ -5,7 +5,7 @@ https://www.jetraw.com/
 ## Requirements
 - **Jetraw installed** on a Windows computer (MacOS and Linux coming soon) and installation folder in PATH.<br/>
 *Note:* if you do not have Jetraw installed visit https://www.jetraw.com/downloads/software and for usage information https://github.com/Jetraw/Jetraw
-- **Fiji installed**.
+- **Fiji installed**.<br/>
 *Note:* if you do not have Fiji installed you can download it from here -> https://imagej.net/Fiji/Downloads
 
 ## Installation
