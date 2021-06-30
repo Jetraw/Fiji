@@ -8,14 +8,14 @@ https://www.jetraw.com/
 *Note:* if you do not have Fiji installed you can download it from here -> https://imagej.net/Fiji/Downloads
 
 ## Installation
-In the main folder of this repository or in the section Release you will find a .jar file named "Jetraw_plugin-21.02.18.1.jar".  
+First download the JAR file from [latest release](https://github.com/Jetraw/Fiji/releases/download/21.02.18.1/Jetraw_plugin-21.02.18.1.jar), or browse [previous releases](https://github.com/Jetraw/Fiji/releases). 
+
 **Copy the .jar** file in the following folder:
 *path_to_fiji_app/plugins/*
 
 ## Usage
-Once the installation process is done, you can go to the Plugins menu bar and in the list choose "Jetraw Open Tiff". 
-A navigation dialog will pop-up and you can choose the Jetraw compressed TIFF file that you would like to open. 
+Once the installation process is done, you can go to the Plugins menu bar. In the list choose "Jetraw Open Tiff". 
+A navigation dialog will pop-up and you can choose the Jetraw compressed TIFF file that you would like to display. 
 
 ## Contact
-If you have any request or doubt please do not hesitate to contact us to:
-https://dotphoton.com/contact
+Feel free to use the [issues section](https://github.com/Jetraw/Fiji/issues) to report bugs or request new features. You can also ask questions and give comments by visiting the [discussions](https://github.com/Jetraw/Fiji/discussions), or following the contact information at https://jetraw.com.
