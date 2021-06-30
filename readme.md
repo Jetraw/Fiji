@@ -14,7 +14,7 @@ First download the JAR file from [latest release](https://github.com/Jetraw/Fiji
 *path_to_fiji_app/plugins/*
 
 ## Usage
-Once the installation process is done, you can go to the Plugins menu bar. In the list choose "Jetraw Open Tiff". 
+Once the installation process is done, you can go to the **Plugins menu bar**. In the list choose **"Jetraw Open Tiff"**. 
 A navigation dialog will pop-up and you can choose the Jetraw compressed TIFF file that you would like to display. 
 
 ## Contact
