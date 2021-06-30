@@ -3,7 +3,8 @@ This is a Fiji plug-in that includes the Jetraw codec to read Jetraw compressed 
 https://www.jetraw.com/
 
 ## Requirements
-- **Jetraw installed** on a Windows computer (MacOS and Linux coming soon) and installation folder in PATH.
+- **Jetraw installed** on a Windows computer (MacOS and Linux coming soon) and installation folder in PATH.<br/>
+*Note:* if you do not have Jetraw installed visit https://www.jetraw.com/downloads/software and for usage information https://github.com/Jetraw/Jetraw
 - **Fiji installed**.
 *Note:* if you do not have Fiji installed you can download it from here -> https://imagej.net/Fiji/Downloads
 
